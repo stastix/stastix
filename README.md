@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! 👋 I'm Achraf
 
-<!--
-**stastix/stastix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate fullStack web developer. Feel free to explore and collaborate!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **achraf.boubaker@esprit.tn**
+- 💬 Ask me about **react, node.js, Next.js, TypeScript**
+
+## GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=physixgod&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=physixgod&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+
