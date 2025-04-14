@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate fullStack web developer. Feel free 
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stastix&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stastix&show_icons=true&theme=tokyonight&rank_icon=github)
 
 ## Most Used Languages
 
