@@ -13,6 +13,6 @@ Welcome to my GitHub profile! I'm passionate fullStack web developer. Feel free 
 
 ## Most Used Languages
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stastix&show_icons=true&theme=tokyonight&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stastix&layout=compact&theme=tokyonight)
 
 
