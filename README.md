@@ -4,7 +4,8 @@ Welcome to my GitHub profile! I'm passionate fullStack web developer. Feel free 
 
 
 - 📫 How to reach me **achraf.boubaker@esprit.tn**
-- 💬 Ask me about **react, node.js, Next.js, TypeScript**
+- 💬 Ask me about **React, Node.js, Next.js, TypeScript**
+- Currently learning more GO
 - I believe it's about reinventing the wheel, if someone else built it I need to know if I can build it 
 
 ## GitHub Stats
