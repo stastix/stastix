@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Achraf
 
-Welcome to my GitHub profile! I'm passionate fullStack web developer. Feel free to explore and collaborate!
+Welcome to my GitHub profile! I'm a fullStack web developer (mostly) . Feel free to explore and collaborate!
 
 
 - 📫 How to reach me **achraf.boubaker@esprit.tn**
