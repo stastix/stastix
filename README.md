@@ -4,7 +4,7 @@ Full-stack developer building production systems and AI-powered applications. Cu
 
 **Recent:** Clinical motion tracking app (React Native + pose detection) | Self-driving car AI from scratch (TypeScript + custom neural nets) | Optimized Go streaming for 50K+ users
 
-📫 **achraf.boubaker@protonmail.com** | **Hessen, Germany** | [LinkedIn](https://linkedin.com/in/achrafboubaker)
+📫 **ach.boubaker.de@gmail.com** | **Hessen, Germany** | [LinkedIn](https://linkedin.com/in/achraf-boubaker)
 
 ---
 
@@ -40,10 +40,10 @@ Building LLM-powered clinical tools with React/TypeScript + Python/FastAPI. Real
 **Working Student** @ Stonly *(Jun – Dec 2025)*  
 React/TypeScript development, WebSocket real-time collaboration, GraphQL API design.
 
-**AI Engineering Intern** @ TimSoft Group *(2024)*  
+**AI Engineering Intern** @ TimSoft Group *(2025)*  
 RAG pipelines, prompt engineering, production ML features.
 
-**Software Engineering Intern** @ Artify *(2023)*  
+**Software Engineering Intern** @ Artify *(2024)*  
 Optimized Go streaming services for 50K+ users (20% latency reduction). DRM, Redis caching, CI/CD.
 
 ---
