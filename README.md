@@ -1,8 +1,8 @@
 # Achraf Boubaker
 
-Full-stack developer building production systems and AI-powered applications. Currently working on medical computer vision at Marburg University.
+Full-stack developer building production systems and AI-powered applications. Currently working on medical computer vision and Frontend dev using React and Next.js at Marburg University.
 
-**Recent:** Clinical motion tracking app (React Native + pose detection) | Self-driving car AI from scratch (TypeScript + custom neural nets) | Optimized Go streaming for 50K+ users
+**Recent:** Clinical motion tracking app (React Native + pose detection) | Self-driving car AI from scratch (React + Next.js + TypeScript + custom neural nets) | Optimized Go streaming for 50K+ users
 
 📫 **ach.boubaker.de@gmail.com** | **Hessen, Germany** | [LinkedIn](https://linkedin.com/in/achraf-boubaker)
 
